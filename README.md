@@ -1,4 +1,4 @@
-## Hi there, I'm Trevor 👋
+## Hi there, I'm Trevor, My Github is currently a Work in progress!👋
 
 I am an Information Security bachelors student and U.S. Air Force Veteran with a focus on Security Operations, Endpoint Systems, Virtual Machines, and Risk Management. 
 
